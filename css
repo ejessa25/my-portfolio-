@@ -1,23 +1,14 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>my website portfolio</title>
-    <style>
-        /* General Styles */
-        body {
+/* General Styles */
+body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #dark green;
-    color: #black;
+    background-color: #f5f5f5;
+    color: #333;
 }
 
 h2, h3 {
-    color: #df608a;
+    color: #444;
     font-family: 'Arial', sans-serif;
 }
 
@@ -32,8 +23,8 @@ a:hover {
 
 /* Header Styles */
 header {
-    background-color: #147abe;
-    color: rgb(70, 77, 18);
+    background-color: #3498db;
+    color: white;
     text-align: center;
     padding: 5rem 1rem;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -78,7 +69,7 @@ section {
 }
 
 .projects .project {
-    background-color: rgb(82, 109, 82);
+    background-color: white;
     border-radius: 8px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -155,45 +146,3 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
-    
-
-    </style>
-</head>
-<body>
-
-<header>
-    <h1>Hi My I am Ejessa Mae D jontilla </h1>
-    <p>student|Editor
-</header>
-     <img src="ejessajpeg.jpg" alt="white background"> <style></style>"<width:50>px;</height:200>px;">
-
-
-<section class="about">
-    <h2>About Me</h2>
-    <p>Hello! I'm Bachelor of Science in Technology Communication Management (BS – TCM) 
-        my program prepares the students for real-world employment, research, and entrepreneurship arming them with the required communication competence ,
-         a passionate in editing  I enjoy creating new projects learning new 
-         technologies to improve my skills. I’m always excited to take on new challenges.</p>
-</section>
-
-<section class="work experience">
-    <h2>My Projects</h2>
-    <div class="">
-
-        <img src="" alt="amley food corporation">
-        <h3>Project 1</h3>
-        <p>position: factory worker:
-        <p>laying, Preparation</p>
-             <a href="#"> You can view it here: <a href="#"></p><div></div>
-    </div>
-    <div class="project">
-        <h3>
-        <h3purple you ph
-        <p>position:sales clerk </p>
-            </h3>
-            You can view it here: <a href="#"></a>.</p>
-        </div>
-        <img src="purple you png" alt="Project 2">
-          
-        
-        
